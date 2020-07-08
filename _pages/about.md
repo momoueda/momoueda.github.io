@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at Simon Fraser University School of Criminology and conducts research at the Centre for Forensic Research. My research interest includes stable isotope analysis of human tissues for forensic investigations. I obtained her BSc from Univeristy of British Columbia in General Life Sciences while also specializing in Chemistry and Earth/Ocean Sciences and an MA from Simon Fraser University. 
+I am a PhD student at Simon Fraser University School of Criminology and conduct research at the Centre for Forensic Research. My research involves studying stable isotopes in human tissues such as hair and teeth to determine possible origins of individuals. I obtained a BSc from Univeristy of British Columbia in General Life Sciences while also specializing in Chemistry and Earth/Ocean Sciences and an MA from Simon Fraser University. 
 
 
 
