@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Momoko Ueda, PhD Student"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
