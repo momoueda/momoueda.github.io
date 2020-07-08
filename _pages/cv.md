@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Crimionology (Forensic Stable Isotopes), Simon Fraser University, Canada 2021 (expected)
+* M.A. in Crimionology (Forensic Stable Isotopes), Simon Fraser University, Canada 2014
+* B.Sc. in General Life Sciences with sub-specializations in Chemistry and Earth/Ocean Sciences, University of British Columbia, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011 - Present: Research Assistant
+  * Centre for Forensic Research, Simon Fraser University
+  * Duties include: quantitative data analysis, data visualization, sample preparation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012 - 2019: Teaching Assistant
+  * CRIM355: Introduction of Forensic Sciences, School of Criminology, Simon Fraser University
+  CRIM356: Forensic Sciences II 
+  CRIM402: Biological Explanations to Crime
+  * Duties included: Leading tutorials/lab for undergraduate students, marking assignments and exams, exam invigilation
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Writing
+* Quantitative data analysis, data visualization and mapping
+  * R
+  * SPSS
+  * Excel
+* Presentation
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Letters from the Inside Student Researcher
