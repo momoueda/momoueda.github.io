@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Momoko Ueda"
 title_separator          : "-"
 name                     : &name "Momoko Ueda"
-description              : &description "A PhD student studying stable isotopes for forensic application at Simon Fraser University"
+description              : &description "Forensic Stable Isotopes --  PhD Student at Simon Fraser University"
 url                      : https://momoueda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "momoueda/momoueda.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "A PhD student studying stable isotopes for forensic application at Simon Fraser University"
   location         : "Vancouver, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=wcnlJZcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "momoueda"
+  github           : #"momoueda"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
