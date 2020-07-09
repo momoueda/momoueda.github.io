@@ -3,7 +3,7 @@ title: "A city‐wide investigation of the isotopic distribution and source of t
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017
+date: 2020-07-08
 venue: 'Journal of Forensic Sciences'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Ueda M. and Bell LS. (2017). &quot;A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing .&quot; <i>Journal of Forensic Sciences</i>. 62 (3), 655-66.'
