@@ -1,7 +1,7 @@
 ---
 title: "A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Ueda_Bell_2017
 excerpt:
 date: 2017-01-08
 venue: 'Journal of Forensic Sciences'
