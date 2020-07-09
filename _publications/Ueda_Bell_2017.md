@@ -1,5 +1,5 @@
 ---
-title: "Ueda M. Bell LS. (2017) A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing"
+title: "A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing"
 collection: publications
 permalink: /publication/Ueda_Bell_2017
 ---
