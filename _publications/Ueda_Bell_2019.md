@@ -1,7 +1,7 @@
 ---
 title: "Assessing dual hair sampling for isotopic studies of grizzly bears"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Ueda_Bell_2019
 excerpt: 'The purpose of this study was to determine whether significant differences can be observed for the δ13C, δ15N and δ34S values between paired hair samples taken from the rump and shoulder of grizzly bears (Ursus arctos).'
 date: 2015-10-01
 venue: 'Rapid Communications in Mass Spectrometry'
