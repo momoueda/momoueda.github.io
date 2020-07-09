@@ -7,4 +7,4 @@ Human geolocation is prefaced on the accuracy of the geographic precision of map
 
 #[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Ueda M. and Bell LS. (2017). &quot;A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing .&quot; <i>Journal of Forensic Sciences</i>. 62 (3), 655-66.
+Ueda M. and Bell LS. (2017). &quot;A city‐wide investigation of the isotopic distribution and source of tap waters for forensic human geolocation ground‐truthing .&quot; <i>Journal of Forensic Sciences</i>. 62 (3), 655-66.
