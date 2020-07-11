@@ -3,9 +3,8 @@ title: "Assessing dual hair sampling for isotopic studies of grizzly bears"
 collection: publications
 permalink: /publication/Ueda_Bell_2019
 excerpt: 'The purpose of this study was to determine whether significant differences can be observed for the δ13C, δ15N and δ34S values between paired hair samples taken from the rump and shoulder of grizzly bears (Ursus arctos).'
-date: 2015-10-01
+date: 2019-01-04
 venue: 'Rapid Communications in Mass Spectrometry'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Ueda M, Bell LS. (2019). &quot;Assessing dual hair sampling for isotopic studies of grizzly bears.&quot; <i>Rapid Communications in Mass Spectrometry</i>. 33 (18):1475-1480.'
 ---
 Abstract
@@ -21,6 +20,6 @@ Statistical comparisons of paired hair samples for both males and females showed
 Conclusions
 Based on these results, hair may be safely sampled on either the rump or the shoulder without loss of isotopic information and thus this finding allows for refinement of sampling.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download Article](http://momoueda.github.io/files/Ueda_Bell_2019.pdf)
 
 Ueda M, Bell LS. (2019). "Assessing dual hair sampling for isotopic studies of grizzly bears." <i>Rapid Communications in Mass Spectrometry</i>. 33 (18):1475-1480.
