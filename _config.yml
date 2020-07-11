@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Momoko Ueda"
 title_separator          : "-"
 name                     : &name "Momoko Ueda"
-description              : &description "Forensic Stable Isotopes --  PhD Student at Simon Fraser University"
+description              : &description "Forensic Stable Isotopes - Human Geolocation; PhD Student at Simon Fraser University"
 url                      : https://momoueda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "momoueda/momoueda.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Momoko Ueda"
   avatar           : "headshot_momo.jpg"
-  bio              : "Forensic Stable Isotopes --  PhD Student at Simon Fraser University"
+  bio              : "Forensic Stable Isotopes - Human Geolocation; PhD Student at Simon Fraser University"
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : 
