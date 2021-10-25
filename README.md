@@ -1,5 +1,5 @@
-# momoueda.github.io
+# Momoko Ueda
 
-## Hello World
+## Hello!
 
-I am trying this out for the first time
+I am a PhD candidate at Simon Fraser University in Forensic Science and Criminology!
